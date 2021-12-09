@@ -1,5 +1,5 @@
 # Install Instructions
- - Install python 3.10
+ - Install python 3.10(Installer: https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe)
  - Open file explorer to wherever this bot is download
  - Shift-right click on empty space in the folder, click "Open powershell window here"(or open command prompt here I think)
  - Run ```python -m pip install -r requirements.txt```
